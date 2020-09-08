@@ -1,0 +1,7 @@
+E:\Dev_Projects\Cole\Cole\bin\Debug\Cole.exe.config
+E:\Dev_Projects\Cole\Cole\bin\Debug\Cole.exe
+E:\Dev_Projects\Cole\Cole\bin\Debug\Cole.pdb
+E:\Dev_Projects\Cole\Cole\obj\Debug\Cole.csprojAssemblyReference.cache
+E:\Dev_Projects\Cole\Cole\obj\Debug\Cole.csproj.CoreCompileInputs.cache
+E:\Dev_Projects\Cole\Cole\obj\Debug\Cole.exe
+E:\Dev_Projects\Cole\Cole\obj\Debug\Cole.pdb
